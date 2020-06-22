@@ -81,6 +81,7 @@ else
     skewCube = [];
     kurtCube = [];
     entropyCube = [];
+    intensityFeatures = [];
 end
 
 % -------------------------------------------------------------------------
